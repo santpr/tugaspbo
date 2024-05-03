@@ -1,6 +1,7 @@
 # TugasPBO_TempatMakanSederhana
 
 Santa Pradana Mukti Karnanda (2305551133) PBO kelas E
+Eriel Gibran Rafsanjani (2305551140) PBO kelas E
 
 ## About
 
